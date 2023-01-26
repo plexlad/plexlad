@@ -12,7 +12,7 @@ Love programming, though want to get more experienced.
 
 ### Knows some (and wants to work more with):
  * Lua
- * C++
+ * Go
 
 ### Current projects:
  * Learning C++
