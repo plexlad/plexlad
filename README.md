@@ -7,14 +7,11 @@ Love programming, though want to get more experienced.
  * Javascript
  * Python
  * Linux
+ * Go
  * Work with software
  * Work with repairing hardware
 
-### Knows some (and wants to work more with):
- * Lua
- * Go
-
 ### Current projects:
- * Learning C++
- * Carothar 5e, a modular framework for programming tools for D&D 5e
- * Decentralized applications
+ * Learning Go
+ * Creating terminal based applications
+ * Pursuing a career!
