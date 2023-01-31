@@ -2,7 +2,7 @@
 
 Enjoys making things! (Keyboards, 3D printing, etc.).
 Love programming, though want to get more experienced.
-Truly want to see a world of open standards and tools, technology for humands, not money.
+Truly want to see a world of open standards and tools, technology for humans, not money.
 
 ### Experienced in:
  * Javascript
