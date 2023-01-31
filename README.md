@@ -12,6 +12,6 @@ Love programming, though want to get more experienced.
  * Work with repairing hardware
 
 ### Current projects:
- * Learning Go
+ * Learning Rust
  * Creating terminal based applications
  * Pursuing a career!
