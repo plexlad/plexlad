@@ -1,16 +1,23 @@
 ## Looking to get into open source!
 
-Enjoys making things! (Keyboards, 3D printing, etc.).
-Love programming, though want to get more experienced.
-Truly want to see a world of open standards and tools, technology for humans, not money.
+Enjoy making things!
 
-### Experienced in:
- * Javascript
- * Python
- * Linux
- * Work with repairing hardware
+Enjoyer of programming.
 
-### Current projects:
- * Learning Rust
- * Creating community based projects
- * Pursuing a career!
+Believer in open access.
+
+### Know:
+- C#
+- Node.js (with frameworks)
+
+### Love:
+- Linux (NixOS!)
+- Neovim
+- Go
+- Learning about systems
+
+### Wanna love (todo):
+- Rust
+- Systems
+- Game Developent
+- DevRel/DevOps
