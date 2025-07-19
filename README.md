@@ -1,23 +1,17 @@
 ## Looking to get into open source!
 
-Enjoy making things!
-
-Enjoyer of programming.
-
-Believer in open access.
+Hoping for our own internet.
 
 ### Know:
 - C#
 - Node.js (with frameworks)
-
-### Love:
 - Linux (NixOS!)
 - Neovim
 - Go
-- Learning about systems
-
-### Wanna love (todo):
+- Kubernetes
 - Rust
-- Systems
+- JS
+
+### Wanna know (todo):
 - Game Developent
 - DevRel/DevOps
