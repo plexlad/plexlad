@@ -1,6 +1,6 @@
 jacking into the net
 
-Testing different tools, most of my configurations are on (sourcehut here)[https://sr.ht/~toastielad/] at the moment
+Testing different tools, most of my configurations are on [sourcehut here](https://sr.ht/~toastielad/) at the moment
 
 - Software Engineer
 - Enjoyer of old tech (hardware and software)
