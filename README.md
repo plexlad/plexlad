@@ -1,17 +1,16 @@
-## Looking to get into open source!
+jacking into the net
 
-Hoping for our own internet.
+Testing different tools, most of my configurations are on (sourcehut here)[https://sr.ht/~toastielad/] at the moment
 
-### Know:
-- C#
-- Node.js (with frameworks)
-- Linux (NixOS!)
-- Neovim
-- Go
-- Kubernetes
-- Rust
-- JS
+- Software Engineer
+- Enjoyer of old tech (hardware and software)
+- Hoping for a better internet
 
-### Wanna know (todo):
-- Game Developent
-- DevRel/DevOps
+Skills
+- Node.js, Javascript, Typescript
+- Docker, Kubernetes, Networking, On Prem Stuff
+- Nix (package manager), Nix (lang), NixOS
+- C#, Golang, Python
+- Interested in learning Rust/C!
+
+> “But how could you live and have no story to tell?” - Fyodor Dostoevsky
